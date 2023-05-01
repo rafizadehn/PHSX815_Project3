@@ -59,6 +59,6 @@ which sets the number of parameters tested as 10 instead of the default 100. Thi
 
 The script will then plot the data as a scatter plot around the total correlation line, as seen below.
 
-
+![results3](https://user-images.githubusercontent.com/76142511/235408634-320744fc-3c6f-432c-93aa-3319c5af87ff.png)
 
 
