@@ -1,4 +1,4 @@
-# Project 1 - Velocities of Gas Particles in a Boltzmann Distribution
+# Project 3 - Velocities of Gas Particles in a Boltzmann Distribution
 
 **Formal write up is located in this repository, named "Rafizadeh_WRITEUP.pdf"**
 
